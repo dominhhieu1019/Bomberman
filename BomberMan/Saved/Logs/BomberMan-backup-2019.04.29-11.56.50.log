@@ -1,0 +1,1644 @@
+﻿Log file open, 04/29/19 13:04:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BomberMan
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.892663
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.29-11.04.45:787][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.29-11.04.45:787][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.29-11.04.45:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.45:787][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.29-11.04.45:787][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.04.29-11.04.45:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.45:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.45:787][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.29-11.04.45:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.45:788][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.45:821][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:821][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.29-11.04.45:821][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.29-11.04.45:822][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.29-11.04.45:823][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.29-11.04.45:823][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:823][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.29-11.04.45:823][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.29-11.04.45:830][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.29-11.04.45:830][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.29-11.04.45:882][  0]LogHAL: Display: Platform has ~ 8 GB [8473591808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.04.29-11.04.45:900][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.29-11.04.45:900][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.29-11.04.45:900][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.29-11.04.45:901][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.29-11.04.45:978][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.29-11.04.45:978][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.04.29-11.04.45:978][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-11.04.46:016][  0]LogInit: Computer: DOMINHHIEU
+[2019.04.29-11.04.46:016][  0]LogInit: User: dominhhieu
+[2019.04.29-11.04.46:016][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.29-11.04.46:016][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.29-11.04.46:016][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.29-11.04.46:016][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.29-11.04.46:016][  0]LogMemory: Process Physical Memory: 97.34 MB used, 97.34 MB peak
+[2019.04.29-11.04.46:016][  0]LogMemory: Process Virtual Memory: 101.01 MB used, 101.01 MB peak
+[2019.04.29-11.04.46:016][  0]LogMemory: Physical Memory: 3987.31 MB used,  4093.73 MB free, 8081.05 MB total
+[2019.04.29-11.04.46:016][  0]LogMemory: Virtual Memory: 4668.42 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.04.29-11.04.47:115][  0]LogInit: Using OS detected language (en-US).
+[2019.04.29-11.04.47:115][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.29-11.04.47:144][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.29-11.04.47:873][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.29-11.04.48:439][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.29-11.04.48:439][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.29-11.04.52:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.29-11.04.52:046][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.29-11.04.52:637][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2019.04.29-11.04.52:638][  0]LogD3D11RHI:       4055/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.29-11.04.52:644][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.29-11.04.52:644][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.29-11.04.52:647][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.29-11.04.52:647][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.29-11.04.52:647][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.29-11.04.52:682][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.29-11.04.52:682][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2019.04.29-11.04.52:695][  0]LogWindows: EnumDisplayDevices:
+[2019.04.29-11.04.52:695][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.04.29-11.04.52:695][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.29-11.04.52:696][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.29-11.04.52:696][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.29-11.04.52:696][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2019.04.29-11.04.52:696][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.29-11.04.52:696][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.29-11.04.52:696][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2019.04.29-11.04.52:874][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.29-11.04.53:163][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.29-11.04.53:173][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.29-11.04.53:174][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.29-11.04.53:206][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.29-11.04.54:150][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.04.29-11.04.54:183][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.04.29-11.04.54:220][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.04.29-11.04.54:341][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.04.29-11.04.54:598][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.04.29-11.04.54:622][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.04.29-11.04.54:783][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.04.29-11.04.54:861][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.04.29-11.04.54:893][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.04.29-11.04.55:007][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.04.29-11.04.55:008][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.04.29-11.04.55:008][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.04.29-11.04.55:008][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.04.29-11.04.55:008][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.04.29-11.04.55:008][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.04.29-11.04.55:008][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.04.29-11.04.55:023][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.04.29-11.04.55:222][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.04.29-11.04.55:222][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.04.29-11.04.55:326][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.04.29-11.04.55:326][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.04.29-11.04.55:375][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.04.29-11.04.55:390][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.04.29-11.04.55:409][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.04.29-11.04.55:465][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.04.29-11.04.55:544][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.04.29-11.04.55:544][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.04.29-11.04.55:544][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.29-11.04.55:778][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.04.29-11.04.56:573][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/Bomberman/BomberMan/Intermediate/Shaders/WorkingDirectory/6840/).
+[2019.04.29-11.04.56:573][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dominhhieu/AppData/Local/Temp/UnrealShaderWorkingDir/4B9FBDFD41B3F305CC0EA88D5B51C316/'.
+[2019.04.29-11.04.56:614][  0]LogXGEController: Cleaning working directory: C:/Users/dominhhieu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.29-11.04.56:615][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.29-11.04.56:615][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.29-11.04.56:615][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.29-11.05.00:541][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.29-11.05.01:470][  0]LogDerivedDataCache: Loaded boot cache 0.92s 71MB C:/Users/dominhhieu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.29-11.05.01:470][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dominhhieu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.04.29-11.05.01:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Bomberman/BomberMan/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.29-11.05.01:470][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.29-11.05.01:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Bomberman/BomberMan/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.29-11.05.01:470][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.29-11.05.01:786][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.29-11.05.01:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.29-11.05.01:787][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.29-11.05.01:799][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dominhhieu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.29-11.05.01:799][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.29-11.05.01:799][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.29-11.05.01:856][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.29-11.05.01:907][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.29-11.05.02:037][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.29-11.05.02:641][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2019.04.29-11.05.05:807][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.29-11.05.07:979][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.29-11.05.07:979][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.04.29-11.05.07:979][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.29-11.05.07:979][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.29-11.05.07:979][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.29-11.05.08:280][  0]LogNetVersion: BomberMan 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1450052139)
+[2019.04.29-11.05.11:690][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.070132 seconds
+[2019.04.29-11.05.11:726][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.04.29-11.05.11:727][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.04.29-11.05.11:727][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.29-11.05.27:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.29-11.05.27:314][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.29-11.05.27:862][  0]SourceControl: Source control is disabled
+[2019.04.29-11.05.27:862][  0]SourceControl: Source control is disabled
+[2019.04.29-11.05.28:076][  0]SourceControl: Source control is disabled
+[2019.04.29-11.05.28:098][  0]SourceControl: Source control is disabled
+[2019.04.29-11.05.29:173][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.29-11.05.29:663][  0]LogOcInput: OculusInput pre-init called
+[2019.04.29-11.05.31:636][  0]LogEngine: Initializing Engine...
+[2019.04.29-11.05.31:663][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.29-11.05.31:690][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.012 s
+[2019.04.29-11.05.32:542][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.29-11.05.32:769][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.29-11.05.32:802][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-11.05.32:850][  0]LogInit: FAudioDevice initialized.
+[2019.04.29-11.05.32:850][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.29-11.05.33:129][  0]LogDerivedDataCache: Saved boot cache 0.28s 71MB C:/Users/dominhhieu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.29-11.05.33:147][  0]LogInit: Texture streaming: Enabled
+[2019.04.29-11.05.33:290][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.29-11.05.33:640][  0]LogInit: Transaction tracking system initialized
+[2019.04.29-11.05.33:971][  0]BlueprintLog: New page: Editor Load
+[2019.04.29-11.05.35:298][  0]LocalizationService: Localization service is disabled
+[2019.04.29-11.05.38:453][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Content/' took 0.01s
+[2019.04.29-11.05.38:453][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.29-11.05.38:453][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.29-11.05.40:844][  0]SourceControl: Source control is disabled
+[2019.04.29-11.05.40:859][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-11.05.40:892][  0]LightingResults: New page: Lighting Build
+[2019.04.29-11.05.40:941][  0]MapCheck: New page: Map Check
+[2019.04.29-11.05.40:941][  0]LightingResults: New page: Lighting Build
+[2019.04.29-11.05.40:967][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.04.29-11.05.41:709][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.29-11.05.41:921][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-11.05.42:005][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.29-11.05.42:047][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-11.05.42:060][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2019.04.29-11.05.42:060][  0]LogFileHelpers: Loading map 'Template_Default' took 1.201
+[2019.04.29-11.05.43:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.05.43:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.05.43:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.05.43:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.05.43:192][  0]LogCollectionManager: Loaded 0 collections in 0.003588 seconds
+[2019.04.29-11.05.43:348][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Saved/Collections/' took 0.01s
+[2019.04.29-11.05.43:348][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Content/Developers/dominhhieu/Collections/' took 0.00s
+[2019.04.29-11.05.43:348][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Content/Collections/' took 0.00s
+[2019.04.29-11.05.43:348][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.29-11.05.43:362][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2732 classes and 659 folders.
+[2019.04.29-11.05.43:479][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.29-11.05.43:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.43:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-11.05.44:833][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.29-11.05.44:898][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.29-11.05.45:073][  0]LogSlate: Took 0.098478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.29-11.05.45:109][  0]LogSlate: Took 0.034505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.29-11.05.45:141][  0]LogSlate: Took 0.017049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.29-11.05.45:552][  0]LogRenderer: Reallocating scene render targets to support 1084x640 Format 10 NumSamples 1 (Frame:1).
+[2019.04.29-11.05.46:053][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.29-11.05.46:053][  0]LogLoad: (Engine Initialization) Total time: 78.60 seconds
+[2019.04.29-11.05.46:053][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2019.04.29-11.05.46:250][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.29-11.05.46:440][  2]LogAssetRegistry: Asset discovery search completed in 43.8211 seconds
+[2019.04.29-11.05.46:450][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.29-11.05.46:450][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.04.29-11.05.50:496][ 14]LogSlate: Took 0.022996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.29-11.06.15:487][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.06.17:506][190]LogSlate: Took 0.001036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.29-11.06.19:597][190]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.06.19:671][190]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map1.Map1
+[2019.04.29-11.06.19:724][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.04.29-11.06.19:725][190]Cmd: MAP LOAD FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-11.06.19:725][190]LightingResults: New page: Lighting Build
+[2019.04.29-11.06.19:726][190]LoadErrors: New page: Loading map: Map1.umap
+[2019.04.29-11.06.19:733][190]MapCheck: New page: Map Check
+[2019.04.29-11.06.19:733][190]LightingResults: New page: Lighting Build
+[2019.04.29-11.06.19:760][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.04.29-11.06.19:802][190]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-11.06.19:846][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.04.29-11.06.19:869][190]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-11.06.19:871][190]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.056ms to complete.
+[2019.04.29-11.06.19:871][190]LogFileHelpers: Loading map 'Map1' took 0.146
+[2019.04.29-11.13.50:874][945]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UIResult.UIResult
+[2019.04.29-11.13.51:700][945]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.04.29-11.13.52:764][945]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.04.29-11.13.53:223][945]LogSlate: Took 0.072821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.29-11.14.03:319][375]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.14.03:408][375]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2019.04.29-11.14.04:787][425]LogSlate: Took 0.015792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.29-11.16.20:955][320]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.04.29-11.16.20:956][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.083
+[2019.04.29-11.16.20:957][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/UIResult] ([1] browsable assets)...
+[2019.04.29-11.16.20:957][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UIResult]
+[2019.04.29-11.16.20:957][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Saved/Autosaves/Game/Blueprints/UIResult_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.29-11.16.21:060][320]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult_Auto18768B4A947149861AC5EC5A0A3CA32B6.tmp' to 'D:/Bomberman/BomberMan/Saved/Autosaves/Game/Blueprints/UIResult_Auto1.uasset'
+[2019.04.29-11.16.21:061][320]LogFileHelpers: Auto-saving content packages took 0.104
+[2019.04.29-11.21.35:079][432]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewGameInstance.NewGameInstance
+[2019.04.29-11.21.44:914][849]LogSlate: Took 0.029918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.29-11.24.21:731][378]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map1.Map1
+[2019.04.29-11.24.21:774][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.04.29-11.24.28:550][378]LogSlate: Window 'Save Content' being destroyed
+[2019.04.29-11.24.28:558][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewGameInstance" FILE="D:/Bomberman/BomberMan/Content/Blueprints/NewGameInstance.uasset" SILENT=true
+[2019.04.29-11.24.28:866][378]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/NewGameInstance6607663C41DCD52DF8862DB454C8B4F6.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/NewGameInstance.uasset'
+[2019.04.29-11.24.28:869][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-11.24.28:910][378]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult45E7DCA04C0F681475028697B8A7DACE.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-11.24.28:917][378]Cmd: MAP LOAD FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-11.24.28:917][378]LightingResults: New page: Lighting Build
+[2019.04.29-11.24.28:918][378]LoadErrors: New page: Loading map: Map1.umap
+[2019.04.29-11.24.28:919][378]MapCheck: New page: Map Check
+[2019.04.29-11.24.28:919][378]LightingResults: New page: Lighting Build
+[2019.04.29-11.24.28:981][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.04.29-11.24.29:039][378]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.24.29:076][378]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-11.24.29:121][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.04.29-11.24.29:152][378]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-11.24.29:152][378]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2019.04.29-11.24.29:154][378]LogFileHelpers: Loading map 'Map1' took 0.238
+[2019.04.29-11.24.30:403][431]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map1.Map1
+[2019.04.29-11.24.30:447][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.04.29-11.24.30:448][431]Cmd: MAP LOAD FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-11.24.30:448][431]LightingResults: New page: Lighting Build
+[2019.04.29-11.24.30:449][431]LoadErrors: New page: Loading map: Map1.umap
+[2019.04.29-11.24.30:450][431]MapCheck: New page: Map Check
+[2019.04.29-11.24.30:450][431]LightingResults: New page: Lighting Build
+[2019.04.29-11.24.30:491][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.29-11.24.30:542][431]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.24.30:584][431]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-11.24.30:630][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.04.29-11.24.30:654][431]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-11.24.30:655][431]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2019.04.29-11.24.30:656][431]LogFileHelpers: Loading map 'Map1' took 0.209
+[2019.04.29-11.24.46:004][139]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Map1.Map1:PersistentLevel.Map1
+[2019.04.29-11.26.10:374][794]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.26.10:439][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.04.29-11.26.14:057][952]BlueprintLog: New page: Compile NewGameInstance
+[2019.04.29-11.26.14:136][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.04.29-11.27.23:591][773]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.27.23:601][773]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.29-11.27.25:906][773]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.304 s
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: 
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: Stack: 
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff893d1b0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff893596d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff8935a48e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff88f6a37e2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff88e735cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff88e6f1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff8947f5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff8949e15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff89483d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff89481af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff894810287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff8df83b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff8df82ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-11.27.25:906][773]LogOutputDevice: Error: [Callstack] 0x00007ff8df83d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff8df82c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff91226ca66 USER32.dll!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff91226c582 USER32.dll!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff8df83e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff6309c5d3e UE4Editor.exe!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff6309d554c UE4Editor.exe!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff6309d55ca UE4Editor.exe!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff6309e316c UE4Editor.exe!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff6309e5b8e UE4Editor.exe!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff9134f7974 KERNEL32.DLL!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: [Callstack] 0x00007ff91363a271 ntdll.dll!UnknownFunction []
+[2019.04.29-11.27.25:907][773]LogOutputDevice: Error: 
+[2019.04.29-11.27.25:967][773]LogStats:                SubmitErrorReport -  0.000 s
+[2019.04.29-11.27.31:690][773]LogStats:                    SendNewReport -  5.723 s
+[2019.04.29-11.27.31:690][773]LogStats:             FDebug::EnsureFailed -  8.089 s
+[2019.04.29-11.27.31:690][773]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.27.31:750][776]BlueprintLog: New page: Compile Map1
+[2019.04.29-11.27.31:986][776]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.04.29-11.27.35:160][915]BlueprintLog: New page: Compile Map1
+[2019.04.29-11.27.35:385][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.04.29-11.27.36:482][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-11.27.36:530][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.04.29-11.27.36:912][960]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map161DCBCC6429E53817CDEDABF3858C874.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-11.27.36:942][960]LogFileHelpers: Saving map 'Map1' took 0.460
+[2019.04.29-11.28.31:421][420]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.28.31:491][420]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.04.29-11.28.32:056][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-11.28.32:103][442]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult36397704499EADD677B1618412C2569E.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-11.28.33:530][508]BlueprintLog: New page: Compile NewGameInstance
+[2019.04.29-11.28.33:605][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.04.29-11.28.34:122][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewGameInstance" FILE="D:/Bomberman/BomberMan/Content/Blueprints/NewGameInstance.uasset" SILENT=true
+[2019.04.29-11.28.34:138][530]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/NewGameInstanceFE13D0C24C45F1C25E3E0496DC7FB403.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/NewGameInstance.uasset'
+[2019.04.29-11.29.39:141][266]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:142][266]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:146][266]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:150][266]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:163][267]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:164][267]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:168][267]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:186][268]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:189][268]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:205][269]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:208][269]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:228][270]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:231][270]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:247][271]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:248][271]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:254][271]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:268][272]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:269][272]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:273][272]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:293][273]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:293][273]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:295][273]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:305][273]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:315][274]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:316][274]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:322][274]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:339][275]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:343][275]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:362][276]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:366][276]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:383][277]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:386][277]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:391][277]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:407][278]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:408][278]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:414][278]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:429][279]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:447][279]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.39:450][279]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:068][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:069][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:071][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:075][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:092][309]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:093][309]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:098][309]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:113][310]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:130][310]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:135][310]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:142][311]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:146][311]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:159][312]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:160][312]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:168][312]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:178][313]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:180][313]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.40:183][313]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:668][428]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:669][428]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:670][428]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:671][428]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:681][428]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:691][429]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:692][429]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:697][429]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:713][430]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:714][430]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:717][430]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:736][431]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:737][431]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.42:741][431]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:043][445]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:043][445]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:045][445]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:047][445]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:057][445]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:065][446]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:066][446]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:072][446]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:087][447]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:088][447]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:091][447]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:110][448]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:111][448]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:117][448]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:130][449]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:131][449]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:137][449]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:152][450]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:153][450]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:157][450]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:176][451]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:177][451]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:181][451]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:197][452]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:199][452]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:204][452]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:219][453]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:221][453]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:224][453]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:243][454]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:244][454]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.43:248][454]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.29.44:322][504]BlueprintLog: New page: Compile Map1
+[2019.04.29-11.29.44:555][504]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.04.29-11.29.46:981][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-11.29.47:029][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.04.29-11.29.47:404][611]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map17FF9AE33437AEE2A01679E9AE9E6EB80.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-11.29.47:433][611]LogFileHelpers: Saving map 'Map1' took 0.453
+[2019.04.29-11.32.38:604][462]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.32.38:676][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.04.29-11.32.39:254][486]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.32.39:316][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.04.29-11.32.39:422][491]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.32.39:490][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.04.29-11.32.39:592][496]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.32.39:654][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.04.29-11.32.39:761][501]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.32.39:825][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.04.29-11.32.40:782][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-11.32.40:872][544]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResultB39D42904FD3C6E10067F7BBA052E415.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-11.32.43:982][704]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-11.32.44:007][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.32.44:007][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-11.32.44:049][704]PIE: New page: PIE session: Map1 (Apr 29, 2019, 3:32:44 PM)
+[2019.04.29-11.32.44:063][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.32.44:079][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015941s)
+[2019.04.29-11.32.44:086][704]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.32.44:086][704]LogPlayLevel: PIE: World Init took: (0.007424s)
+[2019.04.29-11.32.44:086][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.023673s)
+[2019.04.29-11.32.44:132][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.04.29-11.32.44:140][704]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-11.32.44:168][704]LogInit: FAudioDevice initialized.
+[2019.04.29-11.32.44:214][704]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.32.44:219][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.32.44
+[2019.04.29-11.32.44:219][704]LogWorld: Bringing up level for play took: 0.004477
+[2019.04.29-11.32.44:257][704]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.04.29-11.32.44:277][704]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.04.29-11.32.44:278][704]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.04.29-11.32.44:279][704]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.191
+[2019.04.29-11.32.44:280][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.32.57:041][399]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-11.32.59:116][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.32.59:403][530]LogPackageName: SearchForPackageOnDisk took   0.187s, but failed to resolve 1.umap.
+[2019.04.29-11.32.59:579][530]LogPackageName: SearchForPackageOnDisk took   0.175s, but failed to resolve 1.umap.
+[2019.04.29-11.32.59:579][530]LogNet: Browse: /Engine/Maps/Entry
+[2019.04.29-11.32.59:579][530]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Engine/Maps/Entry
+[2019.04.29-11.32.59:579][530]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Engine/Maps/Entry'. Shutting down PIE.
+[2019.04.29-11.32.59:579][530]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Engine/Maps/Entry'. Shutting down PIE.
+[2019.04.29-11.32.59:579][530]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Engine/Maps/Entry
+[2019.04.29-11.32.59:579][530]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Engine/Maps/Entry'. Shutting down PIE.
+[2019.04.29-11.32.59:579][530]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Engine/Maps/Entry'. Shutting down PIE.
+[2019.04.29-11.32.59:580][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.32.59:580][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.32.59:622][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-11.32.59:622][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.32.59:679][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.32.59:711][530]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2019.04.29-11.32.59:844][531]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.29-11.33.05:683][818]LogSlate: Window 'Message Log' being destroyed
+[2019.04.29-11.33.05:707][818]LogSlate: Window 'Message Log' being destroyed
+[2019.04.29-11.35.55:037][223]BlueprintLog: New page: Compile NewGameInstance
+[2019.04.29-11.35.55:124][223]LogClass: Warning: Type mismatch in currentLevel of NewGameInstance_C - Previous (IntProperty) Current(StrProperty) for package:  FObjectReader
+[2019.04.29-11.35.55:183][223]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.04.29-11.35.57:267][307]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:291][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:291][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:293][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:297][308]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:313][309]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:314][309]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:318][309]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:332][310]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:333][310]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:337][310]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:356][311]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:357][311]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:361][311]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:380][312]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:384][312]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:400][313]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:403][313]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:422][314]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:423][314]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.35.57:427][314]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:164][496]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:164][496]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:167][496]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:179][496]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:477][510]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:478][510]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:480][510]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:484][510]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:499][511]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:501][511]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:506][511]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:521][512]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:522][512]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:526][512]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:545][513]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:546][513]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:550][513]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:567][514]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:572][514]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:588][515]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:592][515]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:612][516]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:616][516]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:634][517]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:640][517]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:658][518]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:664][518]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:682][519]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:688][519]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:707][520]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:715][520]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:733][521]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:739][521]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:758][522]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:762][522]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:780][523]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:785][523]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:801][524]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:805][524]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:825][525]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:829][525]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:845][526]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:852][526]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:871][527]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:875][527]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:894][528]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:898][528]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:914][529]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:919][529]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:936][530]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:940][530]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:959][531]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:963][531]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:978][532]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.25:982][532]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:001][533]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:005][533]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:022][534]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:027][534]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:044][535]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:047][535]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:067][536]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:071][536]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:086][537]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:092][537]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:108][538]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:112][538]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:132][539]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:136][539]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:154][540]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:159][540]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:176][541]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:179][541]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:199][542]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:204][542]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:220][543]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:226][543]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:242][544]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:246][544]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:265][545]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:269][545]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:286][546]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:291][546]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:310][547]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:314][547]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:332][548]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:336][548]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:352][549]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:357][549]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:375][550]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:376][550]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.36.26:380][550]LogUObjectArray: Warning: Other object in slot
+[2019.04.29-11.37.21:540][695]BlueprintLog: New page: Compile Map1
+[2019.04.29-11.37.21:828][695]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2019.04.29-11.37.52:326][ 50]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.37.52:417][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.04.29-11.38.03:698][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-11.38.03:748][539]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult48FD68EA42531ECBA1095483EE30266A.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-11.38.08:089][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-11.38.08:143][731]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.04.29-11.38.08:561][731]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map142E73D4842F3BE6B14CFE693D297232A.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-11.38.08:593][731]LogFileHelpers: Saving map 'Map1' took 0.505
+[2019.04.29-11.38.36:153][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-11.38.36:207][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.04.29-11.38.36:626][966]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map11B6891FD4C5CC6E1A7C834A8B8178C0E.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-11.38.36:655][966]LogFileHelpers: Saving map 'Map1' took 0.502
+[2019.04.29-11.38.43:310][286]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-11.38.43:346][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.38.43:346][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-11.38.43:346][286]PIE: New page: PIE session: Map1 (Apr 29, 2019, 3:38:43 PM)
+[2019.04.29-11.38.43:347][286]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.38.43:365][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017786s)
+[2019.04.29-11.38.43:366][286]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.38.43:366][286]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.04.29-11.38.43:366][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.018908s)
+[2019.04.29-11.38.43:417][286]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.04.29-11.38.43:423][286]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-11.38.43:450][286]LogInit: FAudioDevice initialized.
+[2019.04.29-11.38.43:481][286]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.38.43:486][286]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.38.43
+[2019.04.29-11.38.43:487][286]LogWorld: Bringing up level for play took: 0.005052
+[2019.04.29-11.38.43:501][286]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 -0.588
+[2019.04.29-11.38.43:501][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.38.56:301][ 40]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-11.38.58:087][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.38.58:205][149]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-11.38.58:255][149]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-11.38.58:318][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.04.29-11.38.58:339][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.38.58:359][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019272s)
+[2019.04.29-11.38.58:359][149]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.38.58:360][149]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2019.04.29-11.38.58:360][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.020522s)
+[2019.04.29-11.38.58:360][149]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.38.58:366][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.38.58
+[2019.04.29-11.38.58:366][149]LogWorld: Bringing up level for play took: 0.005773
+[2019.04.29-11.38.58:367][149]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-11.38.58:374][149]LogLoad: Took 0.118528 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-11.39.11:471][560]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-11.39.16:381][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.39.16:498][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.39.16:499][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.39.16:548][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-11.39.16:548][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.39.16:600][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.39.16:608][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.04.29-11.39.16:628][576]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.29-11.41.08:074][966]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-11.41.08:106][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.41.08:106][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-11.41.08:106][966]PIE: New page: PIE session: Map1 (Apr 29, 2019, 3:41:08 PM)
+[2019.04.29-11.41.08:107][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.41.08:192][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085189s)
+[2019.04.29-11.41.08:192][966]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.41.08:193][966]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.04.29-11.41.08:193][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.086155s)
+[2019.04.29-11.41.08:241][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.04.29-11.41.08:246][966]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-11.41.08:273][966]LogInit: FAudioDevice initialized.
+[2019.04.29-11.41.08:301][966]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.41.08:306][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.41.08
+[2019.04.29-11.41.08:306][966]LogWorld: Bringing up level for play took: 0.004596
+[2019.04.29-11.41.08:321][966]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.232
+[2019.04.29-11.41.08:321][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.41.20:743][680]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-11.41.20:808][681]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:809][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:816][682]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:816][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:834][683]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:835][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:850][684]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:850][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:866][685]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:866][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:883][686]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:883][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:901][687]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:901][687]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:916][688]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:917][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:933][689]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:933][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:951][690]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:951][690]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:967][691]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:967][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.20:983][692]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.20:983][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:000][693]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.21:000][693]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:017][694]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.21:017][694]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:033][695]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.21:034][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:050][696]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.21:050][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:066][697]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Map1_C /Game/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_7
+	Function /Game/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:02DC
+[2019.04.29-11.41.21:066][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:083][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:102][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:118][700]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:134][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:150][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:168][703]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:184][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:200][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:217][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:234][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:250][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:267][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:284][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:301][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:317][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:336][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:350][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:367][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:384][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:400][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:416][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:433][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:450][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:466][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:483][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:499][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:516][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:533][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:549][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:566][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:583][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:600][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:616][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:633][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:650][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:666][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:683][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:700][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:717][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:733][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:749][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:766][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:784][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:800][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:816][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:833][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:850][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:866][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:883][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:899][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:916][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:933][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:950][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:967][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.21:984][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:000][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:016][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:033][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:050][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:069][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:083][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:100][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:117][760]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:134][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:151][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:168][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:188][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:204][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:221][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:238][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:256][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:272][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:291][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:309][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.41.22:310][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:327][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:345][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:362][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Remove from Parent
+[2019.04.29-11.41.22:379][775]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-11.41.22:393][775]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-11.41.22:448][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.04.29-11.41.22:449][775]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.41.22:465][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016323s)
+[2019.04.29-11.41.22:466][775]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.41.22:466][775]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2019.04.29-11.41.22:466][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.017224s)
+[2019.04.29-11.41.22:466][775]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.41.22:471][775]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.41.22
+[2019.04.29-11.41.22:471][775]LogWorld: Bringing up level for play took: 0.004466
+[2019.04.29-11.41.22:472][775]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-11.41.22:473][775]LogLoad: Took 0.079586 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-11.41.35:365][542]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-11.41.36:714][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.41.36:781][627]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-11.41.36:781][627]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-11.41.36:836][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.04.29-11.41.36:836][627]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.41.36:852][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016021s)
+[2019.04.29-11.41.36:853][627]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.41.36:853][627]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.04.29-11.41.36:853][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.016958s)
+[2019.04.29-11.41.36:853][627]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.41.36:858][627]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.41.36
+[2019.04.29-11.41.36:858][627]LogWorld: Bringing up level for play took: 0.004380
+[2019.04.29-11.41.36:859][627]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-11.41.36:860][627]LogLoad: Took 0.078699 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-11.41.39:419][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.41.39:419][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.41.39:459][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-11.41.39:460][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.41.39:514][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.41.39:520][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.04.29-11.41.39:532][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.29-11.41.39:587][781]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.29-11.42.02:522][728]LogSlate: Window 'Message Log' being destroyed
+[2019.04.29-11.42.02:542][728]LogSlate: Window 'Message Log' being destroyed
+[2019.04.29-11.49.40:818][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.04.29-11.49.40:818][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.052
+[2019.04.29-11.49.40:819][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewGameInstance] ([1] browsable assets)...
+[2019.04.29-11.49.40:819][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewGameInstance]
+[2019.04.29-11.49.40:819][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewGameInstance" FILE="D:/Bomberman/BomberMan/Saved/Autosaves/Game/Blueprints/NewGameInstance_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.29-11.49.40:845][223]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/NewGameInstance_Auto2CF06271F4DD42F601989DFBD190C110E.tmp' to 'D:/Bomberman/BomberMan/Saved/Autosaves/Game/Blueprints/NewGameInstance_Auto2.uasset'
+[2019.04.29-11.49.40:845][223]LogFileHelpers: Auto-saving content packages took 0.027
+[2019.04.29-11.51.58:688][259]BlueprintLog: New page: Compile UIResult
+[2019.04.29-11.51.58:774][259]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.04.29-11.52.00:050][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-11.52.00:112][315]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResultCE8D603D46606564A0C20CAA2DDC45DD.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-11.52.07:006][626]BlueprintLog: New page: Compile NewGameInstance
+[2019.04.29-11.52.07:097][626]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.04.29-11.52.09:050][705]BlueprintLog: New page: Compile Map1
+[2019.04.29-11.52.09:361][705]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.04.29-11.52.14:043][902]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-11.52.14:079][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.52.14:079][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-11.52.14:079][902]PIE: New page: PIE session: Map1 (Apr 29, 2019, 3:52:14 PM)
+[2019.04.29-11.52.14:080][902]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.52.14:097][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017461s)
+[2019.04.29-11.52.14:098][902]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.52.14:098][902]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2019.04.29-11.52.14:098][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.018468s)
+[2019.04.29-11.52.14:146][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.04.29-11.52.14:152][902]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-11.52.14:179][902]LogInit: FAudioDevice initialized.
+[2019.04.29-11.52.14:209][902]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.52.14:214][902]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.52.14
+[2019.04.29-11.52.14:215][902]LogWorld: Bringing up level for play took: 0.004367
+[2019.04.29-11.52.14:229][902]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.14
+[2019.04.29-11.52.14:229][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.52.27:036][654]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-11.52.28:723][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.52.28:824][760]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-11.52.28:824][760]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-11.52.28:878][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.04.29-11.52.28:878][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-11.52.28:894][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016124s)
+[2019.04.29-11.52.28:895][760]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-11.52.28:895][760]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2019.04.29-11.52.28:895][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.017143s)
+[2019.04.29-11.52.28:895][760]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-11.52.28:900][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.29-13.52.28
+[2019.04.29-11.52.28:900][760]LogWorld: Bringing up level for play took: 0.004506
+[2019.04.29-11.52.28:901][760]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-11.52.28:902][760]LogLoad: Took 0.078054 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-11.52.33:409][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.52.33:410][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.52.33:459][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-11.52.33:460][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-11.52.33:511][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-11.52.33:519][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.04.29-11.52.33:539][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.29-11.54.01:158][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-11.54.01:508][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.04.29-11.54.03:377][447]LogSlate: Window 'Save Content' being destroyed
+[2019.04.29-11.54.03:402][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewGameInstance" FILE="D:/Bomberman/BomberMan/Content/Blueprints/NewGameInstance.uasset" SILENT=true
+[2019.04.29-11.54.03:425][447]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/NewGameInstance3F4571A448D2EA2D3005A299265B293D.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/NewGameInstance.uasset'
+[2019.04.29-11.54.03:434][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-11.54.03:485][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.04.29-11.54.03:906][447]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map18D62BC36419A30C5ED60A7917A4545E6.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-11.54.03:939][447]LogFileHelpers: Saving map 'Map1' took 0.506
+[2019.04.29-11.56.38:756][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-11.56.38:801][365]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResultA7C00BCB48376F4CE85DFEB2C44CF5BE.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-11.56.40:851][459]LogSlate: Window 'Map1' being destroyed
+[2019.04.29-11.56.40:874][459]LogSlate: Window 'Map1' being destroyed
+[2019.04.29-11.56.42:636][494]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2019.04.29-11.56.44:258][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.04.29-11.56.44:353][558]LogSlate: Window 'BomberMan - Unreal Editor' being destroyed
+[2019.04.29-11.56.44:363][558]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.29-11.56.44:697][559]Cmd: QUIT_EDITOR
+[2019.04.29-11.56.45:205][559]LogExit: Preparing to exit.
+[2019.04.29-11.56.45:904][559]LogExit: Editor shut down
+[2019.04.29-11.56.45:905][559]LogExit: Transaction tracking system shut down
+[2019.04.29-11.56.47:069][559]LogExit: Object subsystem successfully closed.
+[2019.04.29-11.56.47:185][559]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.29-11.56.47:204][559]LogD3D11RHI: Shutdown
+[2019.04.29-11.56.47:204][559]LogD3D11RHI: CleanupD3DDevice
+[2019.04.29-11.56.47:220][559]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.04.29-11.56.47:221][559]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.04.29-11.56.47:221][559]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.04.29-11.56.47:221][559]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.04.29-11.56.47:221][559]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.04.29-11.56.47:221][559]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.04.29-11.56.47:389][559]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (652)
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module Voice (650)
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module SequencerWidgets (648)
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.04.29-11.56.47:880][559]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.04.29-11.56.47:885][559]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.04.29-11.56.47:923][559]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.04.29-11.56.47:924][559]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.04.29-11.56.47:924][559]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.04.29-11.56.47:924][559]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.04.29-11.56.47:924][559]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.04.29-11.56.47:924][559]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.04.29-11.56.47:938][559]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.04.29-11.56.47:948][559]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.04.29-11.56.47:948][559]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.04.29-11.56.48:073][559]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.04.29-11.56.48:084][559]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.04.29-11.56.48:098][559]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.04.29-11.56.48:119][559]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.04.29-11.56.48:119][559]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.04.29-11.56.48:149][559]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.04.29-11.56.48:174][559]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.04.29-11.56.48:174][559]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.04.29-11.56.48:174][559]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.04.29-11.56.48:174][559]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.04.29-11.56.48:174][559]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.04.29-11.56.49:539][559]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.04.29-11.56.49:539][559]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.04.29-11.56.49:540][559]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.04.29-11.56.49:540][559]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.04.29-11.56.49:540][559]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.04.29-11.56.49:540][559]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.04.29-11.56.49:556][559]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.04.29-11.56.49:556][559]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.04.29-11.56.49:556][559]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.04.29-11.56.49:556][559]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.04.29-11.56.49:556][559]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.04.29-11.56.49:556][559]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.04.29-11.56.49:563][559]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.04.29-11.56.49:563][559]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.04.29-11.56.49:563][559]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.04.29-11.56.49:563][559]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.04.29-11.56.49:564][559]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.04.29-11.56.49:564][559]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.04.29-11.56.49:564][559]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.04.29-11.56.49:589][559]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.04.29-11.56.49:589][559]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.04.29-11.56.49:616][559]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.04.29-11.56.49:616][559]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.04.29-11.56.49:660][559]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.04.29-11.56.49:660][559]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.04.29-11.56.49:844][559]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.04.29-11.56.49:861][559]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.04.29-11.56.49:861][559]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.04.29-11.56.49:869][559]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.04.29-11.56.49:870][559]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.04.29-11.56.49:900][559]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.04.29-11.56.49:926][559]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.04.29-11.56.49:926][559]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.04.29-11.56.49:926][559]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.04.29-11.56.49:931][559]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.04.29-11.56.49:932][559]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.04.29-11.56.49:932][559]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.04.29-11.56.49:932][559]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.04.29-11.56.49:948][559]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.04.29-11.56.49:962][559]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.04.29-11.56.49:966][559]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.04.29-11.56.49:978][559]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.04.29-11.56.49:985][559]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.04.29-11.56.49:993][559]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.04.29-11.56.49:994][559]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.04.29-11.56.49:994][559]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.29-11.56.50:008][559]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.29-11.56.50:018][559]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.04.29-11.56.50:028][559]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.29-11.56.50:089][559]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.29-11.56.50:190][559]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.29-11.56.50:291][559]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.04.29-11.56.50:291][559]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.04.29-11.56.50:291][559]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.04.29-11.56.50:291][559]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.04.29-11.56.50:291][559]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.04.29-11.56.50:327][559]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.04.29-11.56.50:328][559]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.04.29-11.56.50:336][559]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.04.29-11.56.50:350][559]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.04.29-11.56.50:350][559]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.04.29-11.56.50:350][559]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.04.29-11.56.50:350][559]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.04.29-11.56.50:351][559]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.04.29-11.56.50:354][559]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.04.29-11.56.50:371][559]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.04.29-11.56.50:371][559]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.04.29-11.56.50:371][559]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.04.29-11.56.50:371][559]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.04.29-11.56.50:388][559]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.04.29-11.56.50:404][559]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.04.29-11.56.50:404][559]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.04.29-11.56.50:425][559]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.04.29-11.56.50:425][559]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.04.29-11.56.50:432][559]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.04.29-11.56.50:432][559]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.04.29-11.56.50:432][559]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.04.29-11.56.50:432][559]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.04.29-11.56.50:445][559]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.04.29-11.56.50:445][559]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.04.29-11.56.50:468][559]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.04.29-11.56.50:468][559]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.04.29-11.56.50:472][559]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.04.29-11.56.50:475][559]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.04.29-11.56.50:489][559]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.04.29-11.56.50:489][559]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.04.29-11.56.50:502][559]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.04.29-11.56.50:517][559]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.04.29-11.56.50:517][559]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.04.29-11.56.50:526][559]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.04.29-11.56.50:545][559]LogDerivedDataCache: Shutdown
+[2019.04.29-11.56.50:545][559]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.04.29-11.56.50:545][559]LogXGEController: Cleaning working directory: C:/Users/dominhhieu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.29-11.56.50:545][559]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.04.29-11.56.50:545][559]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.04.29-11.56.50:545][559]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.04.29-11.56.50:545][559]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.04.29-11.56.50:591][559]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.04.29-11.56.50:591][559]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.04.29-11.56.50:629][559]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.04.29-11.56.50:629][559]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.04.29-11.56.50:629][559]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.04.29-11.56.50:629][559]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.04.29-11.56.50:630][559]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.04.29-11.56.50:647][559]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.04.29-11.56.50:647][559]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.04.29-11.56.50:647][559]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.04.29-11.56.50:647][559]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.04.29-11.56.50:647][559]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.04.29-11.56.50:654][559]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.04.29-11.56.50:654][559]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.04.29-11.56.50:660][559]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.04.29-11.56.50:660][559]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.04.29-11.56.50:704][559]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.04.29-11.56.50:704][559]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.04.29-11.56.50:704][559]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.04.29-11.56.50:704][559]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.04.29-11.56.50:704][559]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.04.29-11.56.50:705][559]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.04.29-11.56.50:706][559]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.04.29-11.56.50:706][559]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.04.29-11.56.50:707][559]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.04.29-11.56.50:726][559]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.04.29-11.56.50:766][559]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.04.29-11.56.50:767][559]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.29-11.56.50:767][559]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9134D58F-48B6-2C0C-3AAA-468A831CC86F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=e7e400764f62af510bfd8a8fbb2f78c2%7C5e218c8e70a1444eab46f5fd76f199a5%7C2fccfac8-d29d-4fae-b088-aba1f7974b76&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.29-11.56.50:784][559]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.04.29-11.56.50:786][559]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.04.29-11.56.50:807][559]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.04.29-11.56.50:814][559]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.04.29-11.56.50:814][559]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.04.29-11.56.50:814][559]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.04.29-11.56.50:829][559]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.04.29-11.56.50:829][559]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.04.29-11.56.50:846][559]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.04.29-11.56.50:846][559]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.04.29-11.56.50:846][559]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.04.29-11.56.50:846][559]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.04.29-11.56.50:857][559]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.04.29-11.56.50:879][559]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.04.29-11.56.50:886][559]LogExit: Exiting.
+[2019.04.29-11.56.50:902][559]Log file closed, 04/29/19 13:56:50

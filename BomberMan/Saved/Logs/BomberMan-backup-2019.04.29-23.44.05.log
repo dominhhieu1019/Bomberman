@@ -1,0 +1,1004 @@
+﻿Log file open, 04/30/19 00:23:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BomberMan
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.979937
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.29-22.23.12:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:226][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.29-22.23.12:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:227][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:249][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.29-22.23.12:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.29-22.23.12:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.29-22.23.12:261][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.29-22.23.12:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.29-22.23.12:335][  0]LogHAL: Display: Platform has ~ 8 GB [8473591808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.04.29-22.23.12:336][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.29-22.23.12:336][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.29-22.23.12:336][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.29-22.23.12:337][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.29-22.23.12:360][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.29-22.23.12:360][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.04.29-22.23.12:360][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Bomberman/BomberMan/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.23.12:379][  0]LogInit: Computer: DOMINHHIEU
+[2019.04.29-22.23.12:379][  0]LogInit: User: dominhhieu
+[2019.04.29-22.23.12:379][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.29-22.23.12:379][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.29-22.23.12:392][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.29-22.23.12:392][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.29-22.23.12:392][  0]LogMemory: Process Physical Memory: 96.71 MB used, 96.72 MB peak
+[2019.04.29-22.23.12:392][  0]LogMemory: Process Virtual Memory: 89.25 MB used, 89.25 MB peak
+[2019.04.29-22.23.12:392][  0]LogMemory: Physical Memory: 3949.88 MB used,  4131.17 MB free, 8081.05 MB total
+[2019.04.29-22.23.12:392][  0]LogMemory: Virtual Memory: 4656.36 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.04.29-22.23.13:276][  0]LogInit: Using OS detected language (en-US).
+[2019.04.29-22.23.13:276][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.29-22.23.13:314][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.29-22.23.14:158][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.29-22.23.14:756][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.29-22.23.14:756][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.29-22.23.18:341][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.29-22.23.18:341][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.29-22.23.18:904][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2019.04.29-22.23.18:905][  0]LogD3D11RHI:       4055/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.29-22.23.18:912][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.04.29-22.23.18:912][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.29-22.23.18:914][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.29-22.23.18:914][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.29-22.23.18:914][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.29-22.23.18:950][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.29-22.23.18:950][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2019.04.29-22.23.18:957][  0]LogWindows: EnumDisplayDevices:
+[2019.04.29-22.23.18:957][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.04.29-22.23.18:958][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.29-22.23.18:958][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.04.29-22.23.18:959][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.29-22.23.18:959][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2019.04.29-22.23.18:959][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.29-22.23.18:959][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.29-22.23.18:959][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2019.04.29-22.23.19:041][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.29-22.23.19:171][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.29-22.23.19:177][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.29-22.23.19:178][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.29-22.23.19:198][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.29-22.23.20:832][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.04.29-22.23.20:857][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.04.29-22.23.20:880][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.04.29-22.23.20:902][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.04.29-22.23.20:996][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.04.29-22.23.21:021][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.04.29-22.23.21:053][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.04.29-22.23.21:081][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.04.29-22.23.21:100][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.04.29-22.23.21:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.04.29-22.23.21:250][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.04.29-22.23.21:363][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.04.29-22.23.21:363][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.04.29-22.23.21:401][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.04.29-22.23.21:401][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.04.29-22.23.21:428][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.04.29-22.23.21:493][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.04.29-22.23.21:507][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.04.29-22.23.21:543][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.04.29-22.23.21:606][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.04.29-22.23.21:606][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.04.29-22.23.21:606][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.29-22.23.21:892][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.04.29-22.23.22:476][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/Bomberman/BomberMan/Intermediate/Shaders/WorkingDirectory/11056/).
+[2019.04.29-22.23.22:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dominhhieu/AppData/Local/Temp/UnrealShaderWorkingDir/4D13A51944D0D21B261503A104827240/'.
+[2019.04.29-22.23.22:490][  0]LogXGEController: Cleaning working directory: C:/Users/dominhhieu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.29-22.23.22:490][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.29-22.23.22:490][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.29-22.23.22:490][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.29-22.23.27:160][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.29-22.23.28:044][  0]LogDerivedDataCache: Loaded boot cache 0.87s 71MB C:/Users/dominhhieu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.29-22.23.28:044][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dominhhieu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.04.29-22.23.28:044][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Bomberman/BomberMan/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.29-22.23.28:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.29-22.23.28:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Bomberman/BomberMan/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.29-22.23.28:045][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.29-22.23.28:242][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.29-22.23.28:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.29-22.23.28:242][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.29-22.23.28:265][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dominhhieu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.29-22.23.28:265][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.29-22.23.28:265][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.29-22.23.28:297][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.29-22.23.28:328][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.29-22.23.28:469][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.29-22.23.29:083][  0]LogAssetRegistry: FAssetRegistry took 0.0376 seconds to start up
+[2019.04.29-22.23.31:545][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.29-22.23.33:064][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.29-22.23.33:064][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.04.29-22.23.33:064][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.29-22.23.33:064][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.29-22.23.33:064][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.29-22.23.33:570][  0]LogNetVersion: BomberMan 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1450052139)
+[2019.04.29-22.23.37:286][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.099004 seconds
+[2019.04.29-22.23.37:293][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.04.29-22.23.37:293][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.04.29-22.23.37:293][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.29-22.23.50:389][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.29-22.23.50:475][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.29-22.23.51:026][  0]SourceControl: Source control is disabled
+[2019.04.29-22.23.51:027][  0]SourceControl: Source control is disabled
+[2019.04.29-22.23.51:086][  0]SourceControl: Source control is disabled
+[2019.04.29-22.23.51:100][  0]SourceControl: Source control is disabled
+[2019.04.29-22.23.51:910][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.29-22.23.52:284][  0]LogOcInput: OculusInput pre-init called
+[2019.04.29-22.23.54:008][  0]LogEngine: Initializing Engine...
+[2019.04.29-22.23.54:024][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.29-22.23.54:036][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.04.29-22.23.54:949][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.29-22.23.55:041][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.29-22.23.55:119][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-22.23.55:192][  0]LogInit: FAudioDevice initialized.
+[2019.04.29-22.23.55:192][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.29-22.23.55:423][  0]LogDerivedDataCache: Saved boot cache 0.23s 71MB C:/Users/dominhhieu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.29-22.23.55:436][  0]LogInit: Texture streaming: Enabled
+[2019.04.29-22.23.55:554][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.29-22.23.57:421][  0]LogInit: Transaction tracking system initialized
+[2019.04.29-22.23.57:886][  0]BlueprintLog: New page: Editor Load
+[2019.04.29-22.23.59:941][  0]LocalizationService: Localization service is disabled
+[2019.04.29-22.24.07:610][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Content/' took 0.03s
+[2019.04.29-22.24.07:610][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.29-22.24.07:610][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.29-22.24.13:016][  0]SourceControl: Source control is disabled
+[2019.04.29-22.24.13:032][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-22.24.13:082][  0]LightingResults: New page: Lighting Build
+[2019.04.29-22.24.13:123][  0]MapCheck: New page: Map Check
+[2019.04.29-22.24.13:123][  0]LightingResults: New page: Lighting Build
+[2019.04.29-22.24.13:149][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.04.29-22.24.14:935][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.29-22.24.15:187][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-22.24.15:336][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.04.29-22.24.15:355][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-22.24.15:369][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.039ms to complete.
+[2019.04.29-22.24.15:370][  0]LogFileHelpers: Loading map 'Template_Default' took 2.338
+[2019.04.29-22.24.16:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.24.16:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.24.16:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.24.16:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.24.16:857][  0]LogCollectionManager: Loaded 0 collections in 0.003261 seconds
+[2019.04.29-22.24.17:440][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Saved/Collections/' took 0.01s
+[2019.04.29-22.24.17:440][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Content/Developers/dominhhieu/Collections/' took 0.02s
+[2019.04.29-22.24.17:440][  0]LogFileCache: Scanning file cache for directory 'D:/Bomberman/BomberMan/Content/Collections/' took 0.00s
+[2019.04.29-22.24.17:440][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.29-22.24.17:458][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2732 classes and 659 folders.
+[2019.04.29-22.24.17:785][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.29-22.24.17:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.18:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.19:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.24.20:106][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.29-22.24.20:205][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.29-22.24.20:365][  0]LogSlate: Took 0.064165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.29-22.24.20:439][  0]LogSlate: Took 0.072031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.29-22.24.20:504][  0]LogSlate: Took 0.020321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.29-22.24.20:870][  0]LogRenderer: Reallocating scene render targets to support 1084x640 Format 10 NumSamples 1 (Frame:1).
+[2019.04.29-22.24.21:340][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.29-22.24.21:340][  0]LogLoad: (Engine Initialization) Total time: 90.30 seconds
+[2019.04.29-22.24.21:340][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.02 seconds
+[2019.04.29-22.24.21:584][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.29-22.24.21:987][  3]LogAssetRegistry: Asset discovery search completed in 52.9260 seconds
+[2019.04.29-22.24.22:123][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.29-22.24.22:123][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000140 seconds (updated 0 objects)
+[2019.04.29-22.24.25:799][ 14]LogSlate: Took 0.048788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.29-22.29.21:028][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-22.29.24:969][183]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.29-22.29.27:566][183]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-22.29.27:649][183]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map1.Map1
+[2019.04.29-22.29.27:692][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.04.29-22.29.27:693][183]Cmd: MAP LOAD FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-22.29.27:694][183]LightingResults: New page: Lighting Build
+[2019.04.29-22.29.27:694][183]LoadErrors: New page: Loading map: Map1.umap
+[2019.04.29-22.29.27:704][183]MapCheck: New page: Map Check
+[2019.04.29-22.29.27:704][183]LightingResults: New page: Lighting Build
+[2019.04.29-22.29.27:752][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.04.29-22.29.27:804][183]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-22.29.27:848][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.04.29-22.29.27:875][183]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-22.29.27:875][183]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2019.04.29-22.29.27:875][183]LogFileHelpers: Loading map 'Map1' took 0.182
+[2019.04.29-22.55.14:739][958]LogRenderer: Reallocating scene render targets to support 1084x668 Format 10 NumSamples 1 (Frame:152).
+[2019.04.29-22.55.31:906][159]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UIResult.UIResult
+[2019.04.29-22.55.32:692][159]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.04.29-22.55.34:034][159]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.04.29-22.55.34:723][159]LogSlate: Took 0.019077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.29-22.55.38:570][305]LogSlate: Took 0.019264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.29-23.02.14:259][974]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Map1.Map1:PersistentLevel.Map1
+[2019.04.29-23.04.34:541][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1_Player1.Bomb1_Player1
+[2019.04.29-23.04.39:938][199]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player1.Player1
+[2019.04.29-23.05.14:319][768]BlueprintLog: New page: Compile Map1
+[2019.04.29-23.05.14:613][768]LogUObjectHash: Compacting FUObjectHashTables data took   9.57ms
+[2019.04.29-23.05.15:271][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.05.15:338][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.04.29-23.05.15:796][791]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map110B421E9455E17CA1F131EBED59EF5FA.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-23.05.15:832][791]LogFileHelpers: Saving map 'Map1' took 0.566
+[2019.04.29-23.13.36:736][434]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-23.13.36:864][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.13.36:864][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-23.13.36:873][434]PIE: New page: PIE session: Map1 (Apr 30, 2019, 3:13:36 AM)
+[2019.04.29-23.13.36:913][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.13.36:931][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017621s)
+[2019.04.29-23.13.36:941][434]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.13.36:941][434]LogPlayLevel: PIE: World Init took: (0.009950s)
+[2019.04.29-23.13.36:941][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.027873s)
+[2019.04.29-23.13.36:987][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.04.29-23.13.37:022][434]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-23.13.37:051][434]LogInit: FAudioDevice initialized.
+[2019.04.29-23.13.37:199][434]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.13.37:204][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.13.37
+[2019.04.29-23.13.37:229][434]LogWorld: Bringing up level for play took: 0.029391
+[2019.04.29-23.13.37:439][434]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.04.29-23.13.37:454][434]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.04.29-23.13.37:455][434]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.04.29-23.13.37:546][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.544
+[2019.04.29-23.13.37:546][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.13.50:369][146]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-23.13.58:004][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.13.58:155][613]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-23.13.58:175][613]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-23.13.58:301][613]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2019.04.29-23.13.58:316][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.13.58:335][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017127s)
+[2019.04.29-23.13.58:336][613]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.13.58:348][613]LogPlayLevel: PIE: World Init took: (0.013104s)
+[2019.04.29-23.13.58:348][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.031883s)
+[2019.04.29-23.13.58:348][613]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.13.58:353][613]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.13.58
+[2019.04.29-23.13.58:354][613]LogWorld: Bringing up level for play took: 0.004545
+[2019.04.29-23.13.58:354][613]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-23.13.58:402][613]LogLoad: Took 0.226422 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-23.14.11:168][355]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-23.14.12:100][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.14.12:234][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.14.12:306][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.14.12:356][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-23.14.12:356][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.14.12:408][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.14.12:420][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.04.29-23.14.12:448][417]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.29-23.15.50:974][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.04.29-23.15.50:974][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.059
+[2019.04.29-23.15.51:014][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/UIResult] ([1] browsable assets)...
+[2019.04.29-23.15.51:014][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UIResult]
+[2019.04.29-23.15.51:014][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Saved/Autosaves/Game/Blueprints/UIResult_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.29-23.15.51:122][874]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult_Auto1D10EF0BE426994D1C4D9E484F109D3A4.tmp' to 'D:/Bomberman/BomberMan/Saved/Autosaves/Game/Blueprints/UIResult_Auto1.uasset'
+[2019.04.29-23.15.51:123][874]LogFileHelpers: Auto-saving content packages took 0.148
+[2019.04.29-23.16.01:461][259]BlueprintLog: New page: Compile UIResult
+[2019.04.29-23.16.01:546][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.04.29-23.16.02:515][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-23.16.02:561][292]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResultB135D1724E37F8A5915AD5AE1673822C.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-23.16.05:297][402]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-23.16.05:332][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.16.05:332][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-23.16.05:332][402]PIE: New page: PIE session: Map1 (Apr 30, 2019, 3:16:05 AM)
+[2019.04.29-23.16.05:333][402]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.16.05:352][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018627s)
+[2019.04.29-23.16.05:352][402]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.16.05:352][402]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2019.04.29-23.16.05:352][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.019460s)
+[2019.04.29-23.16.05:414][402]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2019.04.29-23.16.05:420][402]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-23.16.05:451][402]LogInit: FAudioDevice initialized.
+[2019.04.29-23.16.05:483][402]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.16.05:487][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.16.05
+[2019.04.29-23.16.05:488][402]LogWorld: Bringing up level for play took: 0.004282
+[2019.04.29-23.16.05:502][402]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.5
+[2019.04.29-23.16.05:502][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.16.13:097][752]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-23.16.14:874][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.16.15:020][846]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-23.16.15:034][846]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-23.16.15:096][846]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.04.29-23.16.15:097][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.16.15:114][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017563s)
+[2019.04.29-23.16.15:115][846]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.16.15:115][846]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2019.04.29-23.16.15:115][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.018465s)
+[2019.04.29-23.16.15:115][846]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.16.15:120][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.16.15
+[2019.04.29-23.16.15:121][846]LogWorld: Bringing up level for play took: 0.005090
+[2019.04.29-23.16.15:121][846]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-23.16.15:123][846]LogLoad: Took 0.088204 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-23.16.19:989][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.16.19:989][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.16.20:039][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-23.16.20:039][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.16.20:096][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.16.20:105][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.04.29-23.16.20:128][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.29-23.19.26:333][438]BlueprintLog: New page: Compile UIResult
+[2019.04.29-23.19.26:394][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.04.29-23.19.26:930][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-23.19.26:974][455]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult4BE0BC0345F2079C19F35FAD57C0719E.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-23.19.30:273][609]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-23.19.30:303][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.19.30:303][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-23.19.30:304][609]PIE: New page: PIE session: Map1 (Apr 30, 2019, 3:19:30 AM)
+[2019.04.29-23.19.30:304][609]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.19.30:320][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016199s)
+[2019.04.29-23.19.30:321][609]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.19.30:321][609]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2019.04.29-23.19.30:321][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.017137s)
+[2019.04.29-23.19.30:371][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.04.29-23.19.30:378][609]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-23.19.30:405][609]LogInit: FAudioDevice initialized.
+[2019.04.29-23.19.30:434][609]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.19.30:440][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.19.30
+[2019.04.29-23.19.30:441][609]LogWorld: Bringing up level for play took: 0.005744
+[2019.04.29-23.19.30:455][609]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 -0.547
+[2019.04.29-23.19.30:455][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.19.38:660][ 92]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-23.19.40:307][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.19.40:459][200]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-23.19.40:459][200]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-23.19.40:513][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.04.29-23.19.40:514][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.19.40:530][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016089s)
+[2019.04.29-23.19.40:530][200]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.19.40:531][200]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2019.04.29-23.19.40:531][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.017010s)
+[2019.04.29-23.19.40:531][200]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.19.40:535][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.19.40
+[2019.04.29-23.19.40:535][200]LogWorld: Bringing up level for play took: 0.004079
+[2019.04.29-23.19.40:536][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-23.19.40:537][200]LogLoad: Took 0.077960 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-23.19.48:120][640]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-23.19.50:369][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.19.50:470][781]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-23.19.50:470][781]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-23.19.50:524][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.04.29-23.19.50:524][781]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.19.50:540][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016048s)
+[2019.04.29-23.19.50:541][781]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.19.50:541][781]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.04.29-23.19.50:541][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.016938s)
+[2019.04.29-23.19.50:541][781]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.19.50:546][781]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.19.50
+[2019.04.29-23.19.50:546][781]LogWorld: Bringing up level for play took: 0.004685
+[2019.04.29-23.19.50:547][781]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-23.19.50:548][781]LogLoad: Took 0.077730 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-23.19.54:442][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.19.54:442][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.19.54:487][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-23.19.54:488][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.19.54:540][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.19.54:547][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.04.29-23.19.54:607][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.29-23.19.57:843][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.21.41:400][521]BlueprintLog: New page: Compile UIResult
+[2019.04.29-23.21.41:483][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.04.29-23.21.42:381][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-23.21.42:471][557]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult87C82D6C428374097C026890D6AD274B.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-23.21.45:090][681]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.29-23.21.45:129][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.21.45:129][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.29-23.21.45:129][681]PIE: New page: PIE session: Map1 (Apr 30, 2019, 3:21:45 AM)
+[2019.04.29-23.21.45:129][681]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.21.45:145][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015671s)
+[2019.04.29-23.21.45:146][681]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.21.45:146][681]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2019.04.29-23.21.45:146][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.016669s)
+[2019.04.29-23.21.45:195][681]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.04.29-23.21.45:201][681]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-23.21.45:229][681]LogInit: FAudioDevice initialized.
+[2019.04.29-23.21.45:256][681]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.21.45:261][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.21.45
+[2019.04.29-23.21.45:262][681]LogWorld: Bringing up level for play took: 0.004461
+[2019.04.29-23.21.45:276][681]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.274
+[2019.04.29-23.21.45:276][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.21.58:084][435]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.29-23.22.02:367][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.22.02:501][700]LogNet: Browse: /Game/Maps/Map1
+[2019.04.29-23.22.02:501][700]LogLoad: LoadMap: /Game/Maps/Map1
+[2019.04.29-23.22.02:557][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.04.29-23.22.02:557][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.29-23.22.02:573][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015619s)
+[2019.04.29-23.22.02:573][700]LogAIModule: Creating AISystem for world Map1
+[2019.04.29-23.22.02:573][700]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2019.04.29-23.22.02:573][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.016481s)
+[2019.04.29-23.22.02:574][700]LogLoad: Game class is 'GameModeBase'
+[2019.04.29-23.22.02:579][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-01.22.02
+[2019.04.29-23.22.02:580][700]LogWorld: Bringing up level for play took: 0.005890
+[2019.04.29-23.22.02:581][700]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.29-23.22.02:582][700]LogLoad: Took 0.080590 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map1)
+[2019.04.29-23.22.05:562][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.22.05:563][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.22.05:607][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.29-23.22.05:608][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.29-23.22.05:660][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-23.22.05:667][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.04.29-23.22.05:728][879]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.29-23.22.11:280][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.22.26:894][771]BlueprintLog: New page: Compile UIResult
+[2019.04.29-23.22.26:966][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.04.29-23.22.27:595][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-23.22.27:640][797]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResult305D151B40AAEF6E2B7A3A8F8BB671ED.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-23.25.48:753][486]BlueprintLog: New page: Compile UIResult
+[2019.04.29-23.25.48:834][486]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2019.04.29-23.25.49:990][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UIResult" FILE="D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset" SILENT=true
+[2019.04.29-23.25.50:127][534]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/UIResultF4086FB0499420A6EEDBA48F60E45622.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/UIResult.uasset'
+[2019.04.29-23.29.06:180][215]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(326)].
+[2019.04.29-23.29.06:252][215]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.04.29-23.29.06:253][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Saved/Autosaves/Game/Maps/Map1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.29-23.29.06:699][215]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map1_Auto297CAF362413B0269632D59A38B21D7DA.tmp' to 'D:/Bomberman/BomberMan/Saved/Autosaves/Game/Maps/Map1_Auto2.umap'
+[2019.04.29-23.29.06:702][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.508
+[2019.04.29-23.29.06:702][215]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.508
+[2019.04.29-23.30.33:661][ 21]BlueprintLog: New page: Compile Map1
+[2019.04.29-23.30.33:942][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.04.29-23.30.34:715][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.30.34:767][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.04.29-23.30.35:182][ 51]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map159BED8D24255470350BE6CB2465A5A27.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-23.30.35:213][ 51]LogFileHelpers: Saving map 'Map1' took 0.498
+[2019.04.29-23.34.40:539][836]LogSlate: Window 'Player1' being destroyed
+[2019.04.29-23.34.40:543][836]LogSlate: Window 'Player1' being destroyed
+[2019.04.29-23.34.41:061][836]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.29-23.34.42:334][864]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2019.04.29-23.35.52:137][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.04.29-23.35.52:373][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.04.29-23.35.52:376][749]LogMetaData: Removing '/Game/Blueprints/PickUpBombAmountIncrease.PickUpBombAmountIncrease_C' ref from Metadata '/Game/Blueprints/BombAmountIncrease.PackageMetaData'
+[2019.04.29-23.35.52:376][749]LogMetaData: Removing '/Game/Blueprints/PickUpBombAmountIncrease.PickUpBombAmountIncrease:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BombAmountIncrease.PackageMetaData'
+[2019.04.29-23.35.52:376][749]LogMetaData: Removing '/Game/Blueprints/PickUpBombAmountIncrease.SKEL_PickUpBombAmountIncrease_C' ref from Metadata '/Game/Blueprints/BombAmountIncrease.PackageMetaData'
+[2019.04.29-23.35.52:518][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PickUpBombAmountIncrease" FILE="D:/Bomberman/BomberMan/Content/Blueprints/PickUpBombAmountIncrease.uasset" SILENT=true
+[2019.04.29-23.35.52:599][749]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/PickUpBombAmountIncrease0B57E89E4E6F777AB623A5B26ADF81F4.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/PickUpBombAmountIncrease.uasset'
+[2019.04.29-23.35.52:824][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.04.29-23.35.52:860][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.29-23.35.52:892][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.04.29-23.35.52:947][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset" SILENT=true
+[2019.04.29-23.35.53:027][749]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player1F49A374D40A9FFBB9432EBBD4F7890FC.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset'
+[2019.04.29-23.35.53:071][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player2" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player2.uasset" SILENT=true
+[2019.04.29-23.35.53:128][749]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player213152301403802A532667C83F1638370.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player2.uasset'
+[2019.04.29-23.35.53:180][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestructibleWall1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset" SILENT=true
+[2019.04.29-23.35.53:321][749]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/DestructibleWall15B08BDF8499667D92B0CD2BC634B164B.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset'
+[2019.04.29-23.36.01:137][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.04.29-23.36.01:367][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.04.29-23.36.01:370][962]LogMetaData: Removing '/Game/Blueprints/PickUpBombRangeIncrease.PickUpBombRangeIncrease_C' ref from Metadata '/Game/Blueprints/BombRangeIncrease.PackageMetaData'
+[2019.04.29-23.36.01:370][962]LogMetaData: Removing '/Game/Blueprints/PickUpBombRangeIncrease.SKEL_PickUpBombRangeIncrease_C' ref from Metadata '/Game/Blueprints/BombRangeIncrease.PackageMetaData'
+[2019.04.29-23.36.01:463][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PickUpBombRangeIncrease" FILE="D:/Bomberman/BomberMan/Content/Blueprints/PickUpBombRangeIncrease.uasset" SILENT=true
+[2019.04.29-23.36.01:496][962]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/PickUpBombRangeIncreaseBFD6E34A42666E1E8AEE619BEBFF38A9.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/PickUpBombRangeIncrease.uasset'
+[2019.04.29-23.36.01:657][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.04.29-23.36.01:693][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.04.29-23.36.01:723][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.04.29-23.36.01:777][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset" SILENT=true
+[2019.04.29-23.36.01:827][962]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player1B631CE994009A975DA9C019B1ED1CD84.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset'
+[2019.04.29-23.36.01:871][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestructibleWall1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset" SILENT=true
+[2019.04.29-23.36.01:908][962]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/DestructibleWall1015AD45B4F6A532096E8D8BAD70359F4.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset'
+[2019.04.29-23.36.21:829][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.04.29-23.36.22:057][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.04.29-23.36.22:060][535]LogMetaData: Removing '/Game/Blueprints/PickUpSpeedIncrease.PickUpSpeedIncrease_C' ref from Metadata '/Game/Blueprints/PlayerSpeedIncrease.PackageMetaData'
+[2019.04.29-23.36.22:060][535]LogMetaData: Removing '/Game/Blueprints/PickUpSpeedIncrease.SKEL_PickUpSpeedIncrease_C' ref from Metadata '/Game/Blueprints/PlayerSpeedIncrease.PackageMetaData'
+[2019.04.29-23.36.22:147][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PickUpSpeedIncrease" FILE="D:/Bomberman/BomberMan/Content/Blueprints/PickUpSpeedIncrease.uasset" SILENT=true
+[2019.04.29-23.36.22:179][535]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/PickUpSpeedIncreaseC7383A4F44A7BAA3B726E99F0F5502D4.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/PickUpSpeedIncrease.uasset'
+[2019.04.29-23.36.22:341][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.04.29-23.36.22:379][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.04.29-23.36.22:410][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.04.29-23.36.22:463][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset" SILENT=true
+[2019.04.29-23.36.22:547][535]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player1F5D030EC4BF5C0B1A498E39B72537309.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset'
+[2019.04.29-23.36.22:591][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestructibleWall1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset" SILENT=true
+[2019.04.29-23.36.22:629][535]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/DestructibleWall118072CD24FB62D04828554B014C3B390.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset'
+[2019.04.29-23.36.36:312][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.04.29-23.36.36:496][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.04.29-23.36.36:680][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.WallDestructible1_C' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.WallDestructible1:PickUpChance.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.WallDestructible1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.WallDestructible1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.WallDestructible1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.WallDestructible1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:683][921]LogMetaData: Removing '/Game/Blueprints/WallDestructible1.SKEL_WallDestructible1_C' ref from Metadata '/Game/Blueprints/DestructibleWall1.PackageMetaData'
+[2019.04.29-23.36.36:771][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WallDestructible1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/WallDestructible1.uasset" SILENT=true
+[2019.04.29-23.36.36:804][921]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/WallDestructible1C16DDA4C4B6359E7FCA61897000E35B4.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/WallDestructible1.uasset'
+[2019.04.29-23.36.36:809][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestructibleWall1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset" SILENT=true
+[2019.04.29-23.36.36:825][921]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/DestructibleWall1BA878B374A661EA92BB921A2F18C0A2A.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/DestructibleWall1.uasset'
+[2019.04.29-23.36.40:701][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.04.29-23.36.43:273][ 45]LogSlate: Window 'Save Content' being destroyed
+[2019.04.29-23.36.43:316][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset" SILENT=true
+[2019.04.29-23.36.43:375][ 45]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player179D3099847A1C973751A139B89BA1E6F.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset'
+[2019.04.29-23.36.43:399][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player2" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player2.uasset" SILENT=true
+[2019.04.29-23.36.43:451][ 45]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player2E4BCB5C4402210910EA771B952C00BD5.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player2.uasset'
+[2019.04.29-23.36.43:458][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.36.43:491][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.04.29-23.36.43:866][ 45]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map13EBF17BF46E756C9CDCB17977BF8DAFF.tmp' to 'D:/Bomberman/BomberMan/Content/Maps/Map1.umap'
+[2019.04.29-23.36.43:895][ 45]LogFileHelpers: Saving map 'Map1' took 0.437
+[2019.04.29-23.36.55:078][629]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2019.04.29-23.37.00:256][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.37.39:007][855]Cmd: TRANSACTION UNDO
+[2019.04.29-23.37.39:007][855]LogEditorTransaction: Undo Edit Ground Offset
+[2019.04.29-23.37.40:071][904]Cmd: TRANSACTION UNDO
+[2019.04.29-23.37.40:071][904]LogEditorTransaction: Undo Set Rotation
+[2019.04.29-23.37.42:422][ 23]Cmd: TRANSACTION UNDO
+[2019.04.29-23.37.42:422][ 23]LogEditorTransaction: Undo Edit Ground Offset
+[2019.04.29-23.37.48:159][323]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.04.29-23.37.54:103][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.38.30:789][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.39.13:487][240]Cmd: TRANSACTION UNDO
+[2019.04.29-23.39.13:487][240]LogEditorTransaction: Undo Edit X
+[2019.04.29-23.40.57:195][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.29-23.40.58:617][991]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.04.29-23.41.05:345][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.42.14:865][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.42.39:676][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-23.43.23:508][354]MapCheck: New page: Map Check
+[2019.04.29-23.43.23:650][354]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.29-23.43.23:708][354]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.29-23.43.23:887][354]LightingResults: New page: Lighting Build - Apr 30, 2019, 3:43:23 AM
+[2019.04.29-23.43.24:083][354]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.29-23.43.24:339][354]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.29-23.43.24:482][354]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.29-23.43.28:161][354]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.04.29-23.43.28:445][354]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.04.29-23.43.33:544][354]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.29-23.43.33:544][354]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11056
+[2019.04.29-23.43.40:820][354]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.29-23.43.42:065][354]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:296 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2019.04.29-23.43.42:065][354]LogD3D11RHI: [Aftermath] GDynamicRHI=0000023A511CA0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.04.29-23.43.42:065][354]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.29-23.43.42:218][354]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.04.29-23.44.04:682][354]LogWindows: Error: === Critical error: ===
+[2019.04.29-23.44.04:682][354]LogWindows: Error: 
+[2019.04.29-23.44.04:682][354]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 198] 
+[2019.04.29-23.44.04:682][354]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0007 - 'RESET')
+[2019.04.29-23.44.04:682][354]LogWindows: Error: 
+[2019.04.29-23.44.04:682][354]LogWindows: Error: 
+[2019.04.29-23.44.04:682][354]LogWindows: Error: Unhandled Exception: 0x00008000
+[2019.04.29-23.44.04:682][354]LogWindows: Error: 
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff910599129 KERNELBASE.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfd33637 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfd346b0 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfb47cea UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfacfe07 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8bfc92a23 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8bfc9629e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8bfc71228 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8bfc848ad UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8e92568ae UE4Editor-RHI.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8ac2275ab UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8ac228736 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d1666993 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d163e2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d168a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d1689a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c9319577 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c92fed0a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfb6715e UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfb57824 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8cfb66d8d UE4Editor-Core.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c961b4f3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c95dcdf8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c9603511 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c95dd460 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c8f53d39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c0cdea8c UE4Editor-LevelEditor.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8c0cfd187 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d164180a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d1718bbb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d171f390 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d16fa2c4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:682][354]LogWindows: Error: [Callstack] 0x00007ff8d17b2a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8d1720c95 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8d1604021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8d1680301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8d166aaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8d1660414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8e736b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8e735ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8e736d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8e735c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff91226ca66 USER32.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff91226c582 USER32.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff8e736e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff7a69d5d3e UE4Editor.exe!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff7a69e554c UE4Editor.exe!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff7a69e55ca UE4Editor.exe!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff7a69f316c UE4Editor.exe!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff7a69f5b8e UE4Editor.exe!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff9134f7974 KERNEL32.DLL!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: [Callstack] 0x00007ff91363a271 ntdll.dll!UnknownFunction []
+[2019.04.29-23.44.04:683][354]LogWindows: Error: 
+[2019.04.29-23.44.04:698][354]LogExit: Executing StaticShutdownAfterError
+[2019.04.29-23.44.05:253][354]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.04.29-23.44.05:276][354]Log file closed, 04/30/19 01:44:05
