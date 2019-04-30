@@ -1,6 +1,6 @@
 # Bomberman 
 
-**3D, static top-down view, *1 vs 1* player version created with Unreal Engine 4.22.1**
+**3D, static top-down view, 1 vs 1 version created with Unreal Engine 4.22.1**
 
 ## About the game
  
