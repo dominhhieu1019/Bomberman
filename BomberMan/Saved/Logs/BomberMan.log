@@ -3424,3 +3424,127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.30-00.53.52:154][873]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2019.04.30-00.54.49:721][542]LogSlate: Window 'Project Settings' being destroyed
 [2019.04.30-00.54.49:725][542]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.30-01.55.25:229][186]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1_Player1.Bomb1_Player1
+[2019.04.30-01.55.25:972][186]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0027 seconds. Added 121 classes and 0 folders.
+[2019.04.30-01.55.27:128][186]LogSlate: Took 0.023257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.30-01.55.27:324][187]LogSlate: Took 0.076842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.30-02.00.27:950][297]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.00.27:956][297]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.02.40:613][985]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewGameInstance.NewGameInstance
+[2019.04.30-02.07.02:960][897]LogSlate: Window 'NewGameInstance' being destroyed
+[2019.04.30-02.07.02:966][897]LogSlate: Window 'NewGameInstance' being destroyed
+[2019.04.30-02.07.38:800][ 79]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PickUpBombAmountIncrease.PickUpBombAmountIncrease
+[2019.04.30-02.08.05:556][231]LogSlate: Window 'PickUpBombAmountIncrease' being destroyed
+[2019.04.30-02.08.05:566][231]LogSlate: Window 'PickUpBombAmountIncrease' being destroyed
+[2019.04.30-02.13.09:209][276]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PickUpBombRangeIncrease.PickUpBombRangeIncrease
+[2019.04.30-02.13.15:055][476]LogSlate: Window 'PickUpBombRangeIncrease' being destroyed
+[2019.04.30-02.13.15:063][476]LogSlate: Window 'PickUpBombRangeIncrease' being destroyed
+[2019.04.30-02.13.45:186][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player1.Player1
+[2019.04.30-02.16.49:113][457]LogSlate: Window 'Player1' being destroyed
+[2019.04.30-02.16.49:120][457]LogSlate: Window 'Player1' being destroyed
+[2019.04.30-02.16.55:859][588]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UIEndGame.UIEndGame
+[2019.04.30-02.16.56:220][588]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.04.30-02.16.58:335][657]LogSlate: Window 'UIEndGame' being destroyed
+[2019.04.30-02.16.58:343][657]LogSlate: Window 'UIEndGame' being destroyed
+[2019.04.30-02.17.26:085][796]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WallDestructible1.WallDestructible1
+[2019.04.30-02.17.35:660][161]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.17.35:668][161]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.17.39:918][210]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WallDestructible1.WallDestructible1
+[2019.04.30-02.17.41:501][252]LogRenderer: Reallocating scene render targets to support 1184x712 Format 10 NumSamples 1 (Frame:1).
+[2019.04.30-02.17.50:604][663]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.17.50:613][663]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.17.52:793][705]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1_Player1.Bomb1_Player1
+[2019.04.30-02.18.02:893][119]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.18.02:900][119]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.18.04:647][153]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PickUpBombAmountIncrease.PickUpBombAmountIncrease
+[2019.04.30-02.18.07:054][230]LogSlate: Window 'PickUpBombAmountIncrease' being destroyed
+[2019.04.30-02.18.07:063][230]LogSlate: Window 'PickUpBombAmountIncrease' being destroyed
+[2019.04.30-02.18.08:436][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-02.18.12:624][506]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Map1.Map1:PersistentLevel.Map1
+[2019.04.30-02.18.34:294][180]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WallDestructible1.WallDestructible1
+[2019.04.30-02.18.39:934][388]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.18.39:945][388]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.18.41:192][405]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1_Player1.Bomb1_Player1
+[2019.04.30-02.20.00:154][877]BlueprintLog: New page: Compile Bomb1_Player1
+[2019.04.30-02.20.00:498][877]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2019.04.30-02.20.01:470][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1_Player1" FILE="D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset" SILENT=true
+[2019.04.30-02.20.01:536][901]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Bomb1_Player1F8E78D634A2774565E7F11BDEDD793A3.tmp' to 'D:/Bomberman/BomberMan/Content/Blueprints/Bomb1_Player1.uasset'
+[2019.04.30-02.20.08:700][196]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.20.08:710][196]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.20.24:427][586]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewGameInstance.NewGameInstance
+[2019.04.30-02.20.28:009][711]LogSlate: Window 'NewGameInstance' being destroyed
+[2019.04.30-02.20.28:025][711]LogSlate: Window 'NewGameInstance' being destroyed
+[2019.04.30-02.20.29:602][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player1.Player1
+[2019.04.30-02.20.39:168][105]LogSlate: Window 'Player1' being destroyed
+[2019.04.30-02.20.39:181][105]LogSlate: Window 'Player1' being destroyed
+[2019.04.30-02.20.40:813][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PickUpSpeedIncrease.PickUpSpeedIncrease
+[2019.04.30-02.20.43:061][201]LogSlate: Window 'PickUpSpeedIncrease' being destroyed
+[2019.04.30-02.20.43:072][201]LogSlate: Window 'PickUpSpeedIncrease' being destroyed
+[2019.04.30-02.20.53:006][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1_Player1.Bomb1_Player1
+[2019.04.30-02.21.08:292][115]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.21.08:304][115]LogSlate: Window 'Bomb1_Player1' being destroyed
+[2019.04.30-02.21.17:114][342]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WallDestructible1.WallDestructible1
+[2019.04.30-02.21.30:378][869]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.21.30:391][869]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.21.32:950][956]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.30-02.21.33:022][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.30-02.21.33:022][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.30-02.21.33:023][956]PIE: New page: PIE session: Map1 (Apr 30, 2019, 6:21:33 AM)
+[2019.04.30-02.21.33:037][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map1
+[2019.04.30-02.21.33:137][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099755s)
+[2019.04.30-02.21.33:138][956]LogAIModule: Creating AISystem for world Map1
+[2019.04.30-02.21.33:138][956]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.04.30-02.21.33:138][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_0_Map1.Map1 (0.101021s)
+[2019.04.30-02.21.33:221][956]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.04.30-02.21.33:229][956]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.30-02.21.33:259][956]LogInit: FAudioDevice initialized.
+[2019.04.30-02.21.33:309][956]LogLoad: Game class is 'GameModeBase'
+[2019.04.30-02.21.33:314][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.04.30-04.21.33
+[2019.04.30-02.21.33:314][956]LogWorld: Bringing up level for play took: 0.004301
+[2019.04.30-02.21.33:331][956]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.04.30-02.21.33:334][956]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.04.30-02.21.33:335][956]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.04.30-02.21.33:337][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map1 0.335
+[2019.04.30-02.21.33:344][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.30-02.21.46:223][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.30-02.21.46:223][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-02.21.46:277][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.30-02.21.46:278][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.04.30-02.21.46:323][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-02.21.46:377][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2019.04.30-02.21.46:395][650]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.04.30-02.21.58:850][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-02.21.59:237][979]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WallDestructible1.WallDestructible1
+[2019.04.30-02.34.57:410][862]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.34.57:435][862]LogSlate: Window 'WallDestructible1' being destroyed
+[2019.04.30-02.35.08:772][101]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Map1.Map1:PersistentLevel.Map1
+[2019.04.30-02.40.10:210][489]LogSlate: Window 'Map1' being destroyed
+[2019.04.30-02.40.10:236][489]LogSlate: Window 'Map1' being destroyed
+[2019.04.30-02.40.12:019][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.04.30-02.44.36:364][780]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.04.30-02.44.39:112][922]MapCheck: New page: Map Check
+[2019.04.30-02.44.39:191][922]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.30-02.44.39:191][922]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.30-02.44.39:349][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.04.30-02.44.39:417][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.39:430][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.39:438][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.04.30-02.44.39:473][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.39:488][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.39:499][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.39:506][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.39:514][922]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.30-02.44.43:144][922]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.30-02.44.43:145][922]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.30-02.44.43:145][922]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.30-02.44.43:145][922]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.30-02.44.43:145][922]TextureStreamingBuild: Display: Compiling optional shaders took 3.742 seconds.
+[2019.04.30-02.44.43:197][922]LogLevel: Display: Export Material TexCoord Scales took 0.052 seconds.
+[2019.04.30-02.44.43:259][922]TextureStreamingBuild: Display: Build Texture Streaming took 0.062 seconds.
+[2019.04.30-02.44.43:296][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.04.30-02.44.43:320][922]LogEditorBuildUtils: Build time 0:04
+[2019.04.30-02.45.16:957][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.04.30-02.45.16:958][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/Bomberman/BomberMan/Saved/Autosaves/Game/Maps/Map1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.30-02.45.17:366][439]LogSavePackage: Moving 'D:/Bomberman/BomberMan/Saved/Map1_Auto1C89E894E41CCF91E61CD44956328201E.tmp' to 'D:/Bomberman/BomberMan/Saved/Autosaves/Game/Maps/Map1_Auto1.umap'
+[2019.04.30-02.45.17:388][439]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map1' took 0.465
+[2019.04.30-02.45.17:388][439]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.465
