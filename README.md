@@ -37,7 +37,7 @@ Assets:
 - Decorate materials of players, bombs, walls,...
 - Add audio.
 - Add procedural generated maps.
-- Upgrade the bomb blast (should not be spherical but linear in the four main directions by using box, stopped by walls and indestructible walls).
+- Upgrade the bomb blast (should not be spherical but linear in the four main directions by using boxes, stopped by walls and indestructible walls).
 - 4 playes mode.
 - Allow players to choose or create their character.
 - Multiplayer version over network.
