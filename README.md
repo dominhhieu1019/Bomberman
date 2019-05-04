@@ -40,7 +40,7 @@ Assets:
 - Upgrade the bomb blast (should not be spherical but linear in the four main directions by using box, stopped by walls and indestructible walls)
 - 4 playes mode
 - Allow players to choose or create their character
-- Multiplayer version
+- Multiplayer version over network
 - Create AI enemies as long as no player has join game session
 - Players and bombs placed at exact place, in the middle of the square.
 
