@@ -42,5 +42,5 @@ Assets:
 - Allow players to choose or create their character
 - Multiplayer version
 - Create AI enemies as long as no player has join game session
-
+- Players and bombs placed at exact place, in the middle of the square.
 
