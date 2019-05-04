@@ -25,7 +25,7 @@ Assets:
 - **NewGameInstance**: Holds the blast range of each player (*P1BombRange*, *P2BombRange*), amount of game time in seconds (*Time*),the game state (*EndGame*), the state of player (died or not?) (*P1Death*, *P2Death*) and the current level (*currentLevel*).
 - **PickUpBombAmountRange**, **PickUpBombRangeIncrease**, **PickUpSpeedIncrease**: The pickups that upgrade player and his weapon. Store logic for being picked up. Send *DestroyActor* if player pick it.
 - **Player1**, **Player2**: Main character (distinguish by color: P1 is blue, P2 is yellow). Stores logic for movement, bomb placing.
-- **WallDestructible1**: Store the funtion *PickUpChance* that choose randomly float number in range from 0 to 10 and drop the pickups depending on the chosen number at the location of destroyed wall. If random number is smaller than 1, drop the **PickUpBombAmountIncrease**. If it is higher than 9, drop the **PickUpBombRangeIncrease**. If it is between 4.5 and 5.5, drop **PickUpSpeedIncrease**.
+- **WallDestructible1**: Store the funtion *PickUpChance* that choose randomly float number in range from 0 to 10 and drop the pickups depending on the chosen number at the location of destroyed wall. If random number is smaller than 1, drop the **PickUpBombAmountIncrease**. If it is higher than 9, drop the **PickUpBombRangeIncrease**. If it is between 4.5 and 5.5, drop **PickUpSpeedIncrease** (~30% chance to spawn something).
 - **Map1**: The pre-define map. Sets the default value of **NewGameInstance** at the beginning of the round. Check if the game finished. Show result and freeze game at its current state after the round end.
 - The materials of board, bomb, bomb effect, pickups, players and walls.
 - The particle system of bomb effect.
